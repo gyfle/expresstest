@@ -1,0 +1,8 @@
+{
+  "name": "Ultimate App",
+  "version": "0.1.0",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
