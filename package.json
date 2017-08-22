@@ -1,8 +1,28 @@
 {
-  "name": "Ultimate App",
+  "name": "ultimateapp",
   "version": "0.1.0",
   "devDependencies": {},
   "dependencies": {
-    "express": "^4.15.4"
-  }
+    "express": "^4.15.4",
+    "tedious": "^2.0.0"
+  },
+  "description": "Test Project for Exploring Node to SQL Integration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyfle/expresstest.git"
+  },
+  "keywords": [
+    "node",
+    "sql"
+  ],
+  "author": "lwm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyfle/expresstest/issues"
+  },
+  "homepage": "https://github.com/gyfle/expresstest#readme"
 }
